@@ -51,7 +51,7 @@ brown_tones = '#8B4513'
 white = '#FFFFFF'
 
 # Define the colormap
-colorscale = [[0, olive_green],
+colorscale = [[0, green],
               [height_map.max() * 0.7 / height_map.max(), brown_tones],
               [1, white]]
 
