@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 
 # Set random seed for reproducibility
 np.random.seed(0)
+a=1
 
 # Function to apply the Diamond-Square algorithm
 def diamond_square(height_map, x, y, step_size, scale):
