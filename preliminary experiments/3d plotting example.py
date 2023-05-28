@@ -50,7 +50,7 @@ X, Y = np.meshgrid(x, y)
 bright_green = '#00FF00'
 brown_tones = '#8B4513'
 white = '#FFFFFF'
-
+a=1
 # Define the colormap
 colorscale = [[0, bright_green],
               [height_map.max() * 0.7 / height_map.max(), brown_tones],
