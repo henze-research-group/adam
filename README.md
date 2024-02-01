@@ -28,3 +28,7 @@ general concepts.
 |--------------|---------------|------------------|
 | Dummy        | Dummy         | Dummy            |
 | Dummy        | Dummy         | Dummy            |
+
+
+If you have any problems, or have feedback/suggestions/improvement, please contact Tim Diller at 
+tim.diller /(äd)/ eurac.edu
