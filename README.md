@@ -26,10 +26,10 @@ general concepts.
 ## Workbooks solving problems from the book
 
 
-| Book Problem | Problem Topic | Link to workbook |
-|--------------|---------------|------------------|
-| Dummy        | Dummy         | Dummy            |
-| Dummy        | Dummy         | Dummy            |
+| Book Problem | Problem Topic          | Link to workbook |
+|--------------|------------------------|------------------|
+| 5.1          | Ordinary Least Squares | [Problem 5.1](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_1.ipynb)  |
+| Dummy        | Dummy                  | Dummy            |
 
 
 If you have any problems, or have feedback/suggestions/improvement, please contact Tim Diller at 
