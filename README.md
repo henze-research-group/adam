@@ -23,7 +23,7 @@ general concepts.
 | Support vector regression         | 11                | [SVR examples](11_Statistical_Learning_Through_Data_Analytics/Support_vector_Regression.ipynb)                              |
 
 
-## workbooks solving problems from the book
+## Workbooks solving problems from the book
 
 
 | Book Problem | Problem Topic | Link to workbook |
