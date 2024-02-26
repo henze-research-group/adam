@@ -26,11 +26,11 @@ general concepts.
 ## Workbooks solving problems from the book
 
 
-| Book Problem | Problem Topic            | Link to workbook                                                                    |
-|--------------|--------------------------|-------------------------------------------------------------------------------------|
-| 5.1          | Ordinary Least Squares   | [Problem 5.1](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_1.ipynb)  |
-| 5.7          | OLS                      | [Problem 5.7](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_7.ipynb)  |
-| 5.14         | OLS, Indicator variables | [Problem 5.14](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_14.ipynb) |
+| Book Problem    | Problem Topic            | Link to workbook                                                                    |
+|-----------------|--------------------------|-------------------------------------------------------------------------------------|
+| 5.1             | Ordinary Least Squares   | [Problem 5.1](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_1.ipynb)  |
+| 5.7             | OLS                      | [Problem 5.7](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_7.ipynb)  |
+| 5.14            | OLS, Indicator variables | [Problem 5.14](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_14.ipynb) |
 
 
 If you have any problems, or have feedback/suggestions/improvement, please contact Tim Diller at 
