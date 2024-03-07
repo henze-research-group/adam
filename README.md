@@ -17,9 +17,9 @@ general concepts.
 | ANOVA                             | 4.3               | [ANOVA example](04_Making_Statistical_Inferences_from_Samples/ANOVA_example.ipynb)                                          |
 | Ordinary least squares            | 5                 | [OLS example](09_Parametric_and_Non-Parametric_Regression_Methods/Ordinary_least_Squares_Lasso_Ridge_regression.ipynb)      |
 | Shrinkage methods (Lasso & Ridge) | 9                 | [Shinkage example](09_Parametric_and_Non-Parametric_Regression_Methods/Ordinary_least_Squares_Lasso_Ridge_regression.ipynb) |
-| Deep Neural Networks              | 11                | [Neural Network example](11_Statistical_Learning_Through_Data_Analytics/Neural_Networks.ipynb)                              |
+| Deep neural networks              | 11                | [Neural Network example](11_Statistical_Learning_Through_Data_Analytics/Neural_Networks.ipynb)                              |
 | Tree based methods                | 11                | [Tree examples](11_Statistical_Learning_Through_Data_Analytics/Tree_based_methods.ipynb)                                    |
-| Clustering Methods                | 11.3              | [Clustering examples](11_Statistical_Learning_Through_Data_Analytics/Clustering_Methods.ipynb)                              |
+| Clustering methods                | 11.3              | [Clustering examples](11_Statistical_Learning_Through_Data_Analytics/Clustering_Methods.ipynb)                              |
 | Support vector regression         | 11                | [SVR examples](11_Statistical_Learning_Through_Data_Analytics/Support_vector_Regression.ipynb)                              |
 
 
@@ -28,9 +28,9 @@ general concepts.
 
 | Book Problem    | Problem Topic            | Link to workbook                                                                    |
 |-----------------|--------------------------|-------------------------------------------------------------------------------------|
-| 5.1             | Ordinary Least Squares   | [Problem 5.1](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_1.ipynb)  |
+| 5.1             | Ordinary least squares   | [Problem 5.1](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_1.ipynb)  |
 | 5.7             | OLS                      | [Problem 5.7](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_7.ipynb)  |
-| 5.14            | OLS, Indicator variables | [Problem 5.14](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_14.ipynb) |
+| 5.14            | OLS, indicator variables | [Problem 5.14](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_14.ipynb) |
 
 
 If you have any problems, or have feedback/suggestions/improvement, please contact Tim Diller at 
