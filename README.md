@@ -26,11 +26,14 @@ general concepts.
 ## Workbooks solving problems from the book
 
 
-| Book Problem    | Problem Topic            | Link to workbook                                                                    |
-|-----------------|--------------------------|-------------------------------------------------------------------------------------|
-| 5.1             | Ordinary least squares   | [Problem 5.1](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_1.ipynb)  |
-| 5.7             | OLS                      | [Problem 5.7](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_7.ipynb)  |
-| 5.14            | OLS, indicator variables | [Problem 5.14](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_14.ipynb) |
+| Book Problem | Problem Topic           | Link to workbook                                                                     |
+|--------------|-------------------------|--------------------------------------------------------------------------------------|
+| 3.7.2        | Uncertainty propagation | [Example 3.7.2](03_Data_Collection_and_Preliminary_Analysis/Example_ADAM_372.ipynb)  |
+| 3.12         | Uncertainty propagation | [Problem 3.12](03_Data_Collection_and_Preliminary_Analysis/Problem_3_12.ipynb)                                                                     |
+| 5.1          | Ordinary least squares  | [Problem 5.1](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_1.ipynb)   |
+| 5.7          | OLS                     | [Problem 5.7](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_7.ipynb)   |
+| 5.14         | OLS, indicator variables | [Problem 5.14](05_Linear_Regression_Analysis_Using_Least_Squares/Problem_5_14.ipynb) |
+| 7.5.4        | Linear Problems         | [Example 7.5.4](07_Optimization_Methods/Example_7_5_4.ipynb)                         |
 
 
 If you have any problems, or have feedback/suggestions/improvement, please contact Tim Diller at 
