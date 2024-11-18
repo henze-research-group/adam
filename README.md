@@ -16,6 +16,7 @@ general concepts.
 | Descriptive statistics            | 3.4               | [Energy grid example](03_Data_Collection_and_Preliminary_Analysis/README_ADAM_03.md)                                        |
 | ANOVA                             | 4.3               | [ANOVA example](04_Making_Statistical_Inferences_from_Samples/ANOVA_example.ipynb)                                          |
 | Ordinary least squares            | 5                 | [OLS example](09_Parametric_and_Non-Parametric_Regression_Methods/Ordinary_least_Squares_Lasso_Ridge_regression.ipynb)      |
+| Karush-Kuhn-Tucker Criteria       | 7                 | [KKT_example](07_Optimization_Methods/Simple_optimization_with_KKT_analysis.ipynb)                                                                                                             |
 | Shrinkage methods (Lasso & Ridge) | 9                 | [Shinkage example](09_Parametric_and_Non-Parametric_Regression_Methods/Ordinary_least_Squares_Lasso_Ridge_regression.ipynb) |
 | Deep neural networks              | 11                | [Neural Network example](11_Statistical_Learning_Through_Data_Analytics/Neural_Networks.ipynb)                              |
 | Tree based methods                | 11                | [Tree examples](11_Statistical_Learning_Through_Data_Analytics/Tree_based_methods.ipynb)                                    |
